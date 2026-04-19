@@ -1,73 +1,132 @@
-# Welcome to your Lovable project
+# 🌾 Yield Pro Advisor – Smart Agriculture Dashboard
 
-## Project info
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-Fast-yellow)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility--First-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
 
-**URL**: https://lovable.dev/projects/a356f1bd-fe40-41ee-a0ce-a66562abfbac
+---
 
-## How can I edit this code?
+## 📌 Overview
 
-There are several ways of editing your application.
+Yield Pro Advisor is a smart agriculture dashboard designed to help farmers and agricultural professionals efficiently manage their fields, monitor weather conditions, and make data-driven decisions. The platform provides a clean, responsive, and intuitive interface to simplify farming operations.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a356f1bd-fe40-41ee-a0ce-a66562abfbac) and start prompting.
+## 🚀 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+* 🌱 Field Management Dashboard
+* 🌦️ Weather Monitoring System
+* 📊 Data Visualization & Insights
+* 🔔 Notification System
+* 👤 User Profile Management
+* 🎙️ Voice Assistant Integration
+* 📱 Fully Responsive Design
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **Frontend:** React, Vite, TypeScript
+* **Styling:** Tailwind CSS
+* **Tools:** ESLint, PostCSS
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📂 Project Structure
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```
+yield-pro-advisor/
+ ├── public/
+ ├── src/
+ │    ├── components/
+ │    ├── pages/
+ │    ├── assets/
+ │    └── hooks/
+ ├── screenshots/
+ ├── package.json
+ ├── vite.config.ts
+ └── README.md
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## ▶️ Run Locally
+
+Clone the project:
+
+```
+git clone https://github.com/Ishani-yadav/yield-pro-advisor.git
+```
+
+Go to project directory:
+
+```
+cd yield-pro-advisor
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run the development server:
+
+```
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Live Demo
 
-**Use GitHub Codespaces**
+🚧 Coming Soon (Deployment in progress)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📸 Screenshots
 
-This project is built with:
+### 🌾 Agriculture Overview
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+![Agro](./screenshots/agro.png)
 
-## How can I deploy this project?
+### 📊 Dashboard View
 
-Simply open [Lovable](https://lovable.dev/projects/a356f1bd-fe40-41ee-a0ce-a66562abfbac) and click on Share -> Publish.
+![Dashboard](./screenshots/dashboard.png)
 
-## Can I connect a custom domain to my Lovable project?
+### 📈 Data Panel
 
-Yes, you can!
+![Dash](./screenshots/dash.png)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### 🎙️ Voice Assistant
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+![VoiceBot](./screenshots/voicebot.png)
+
+---
+
+## 🎯 Learning Outcomes
+
+* Built a scalable frontend using React and Vite
+* Learned component-based architecture
+* Improved UI/UX design skills
+* Implemented responsive layouts using Tailwind CSS
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+**Ishani Yadav**
+GitHub: https://github.com/Ishani-yadav
